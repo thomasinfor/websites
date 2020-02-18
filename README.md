@@ -1,1 +1,1 @@
-# [website](https://thomasinfor.github.io/websites/maze-generator/)
+# [website](https://thomasinfor.github.io/websites/)
