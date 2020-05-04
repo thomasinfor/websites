@@ -1,0 +1,24 @@
+var classes=[
+	"train_passing",
+	"water_drop",
+	"river",
+	"stars_shining",
+	"lightning",
+	"writing",
+	"screaming",
+	"high_heels",
+	"wave",
+	"typing",
+	"ambulance",
+	"dog_barking",
+	"cars",
+	"door_opening",
+	"glass_breaking",
+	"cat_meowing",
+	"cheer",
+	"fire",
+	"helicopter",
+	"blender",
+	"NONE"
+];
+classes.sort();
